@@ -1,0 +1,23 @@
+{
+  "name": "planet-hax",
+  "version": "1.0.0",
+  "description": "HAX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgilvox/planet-hax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgilvox/planet-hax/issues"
+  },
+  "homepage": "https://github.com/virgilvox/planet-hax#readme",
+  "dependencies": {
+    "serialport": "^7.1.5",
+    "thermalprinter": "^0.3.8"
+  }
+}
